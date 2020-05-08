@@ -21,7 +21,7 @@ Sends working directory to staging area.
 
 3. git status
 
-List the files you have changed and and those you still need to add or commit
+List the files you have changed and and those you still need to add or commit.
 
 4. git commit -m "commit message"
 
@@ -35,3 +35,16 @@ Shows all the logs.
 6. git rm --cached <file_name>
 
 To remove files form staging area.
+
+7. git branch <branch_name>
+
+To create a new branch with branch name.
+
+8. git checkout <branch_name>
+
+To switch from current branch to another branch.
+
+9. git commit -am "commit message"
+
+At a time sends file to the staging and local repo. 
+
