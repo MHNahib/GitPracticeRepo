@@ -13,4 +13,7 @@ Add one or more files to staging area.
 
 List the files you have changed and and those you still need to add or commit
 
+4. git commit -m "commit message"
+
+commit changes to head
 
