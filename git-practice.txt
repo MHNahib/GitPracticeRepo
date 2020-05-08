@@ -1,6 +1,13 @@
 Git commands
 ------------
 
+Basic knowledge
+---------------
+
+
+Commands
+--------
+
 1. git init
 
 It is used for initialise a git repository for a new or existing project.
