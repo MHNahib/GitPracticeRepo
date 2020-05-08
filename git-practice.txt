@@ -73,4 +73,4 @@ To push data on particular branch on the server.
 16. README
 
 Now add a readme file and you are ready to go.
->>>>>>> version-2
+
