@@ -65,3 +65,11 @@ To fatch data from remote repo to local repo. If you want to see code change and
 14. git pull 
 
 git fatch + git marge = git pull
+
+15. git push origin <branch_name>
+
+To push data on particular branch on the server.
+
+16. README
+
+Now add a readme file and you are ready to go.
