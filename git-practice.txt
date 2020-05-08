@@ -49,3 +49,7 @@ To switch from current branch to another branch.
 At a time sends file to the staging and local repo. 
 
 10. git merge <branch_name>
+
+To marge a branch.
+
+11. Goto github and make a new repo there. Add a new name and that add last two commands of the repo to your git bash.
