@@ -50,4 +50,27 @@ At a time sends file to the staging and local repo.
 
 10. git merge <branch_name>
 
-To marge a branch
+To marge a branch.
+
+11. Goto github and make a new repo there. Add a new name and that add last two commands of the repo to your git bash.
+
+12. git push
+
+To send data from local repo to remote repo
+
+13. git fatch
+
+To fatch data from remote repo to local repo. If you want to see code change and then add to marge then use git fatch else use git pull.
+
+14. git pull 
+
+git fatch + git marge = git pull
+
+15. git push origin <branch_name>
+
+To push data on particular branch on the server.
+
+16. README
+
+Now add a readme file and you are ready to go.
+>>>>>>> version-2
