@@ -56,5 +56,12 @@ To marge a branch.
 
 12. git push
 
-To send data from Local repo to remote repo
+To send data from local repo to remote repo
 
+13. git fatch
+
+To fatch data from remote repo to local repo
+
+14. git pull 
+
+git fatch + git marge = git pull
