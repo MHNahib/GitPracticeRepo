@@ -4,6 +4,8 @@ Git commands
 Basic knowledge
 ---------------
 
+Working Directory >>> Staging Area >>> Local Repo (Head) >>> Remote Repo (Server/ GitHub)
+
 
 Commands
 --------
@@ -15,6 +17,7 @@ It is used for initialise a git repository for a new or existing project.
 2. git add <file_name> 
 
 Add one or more files to staging area.
+Sends working directory to staging area.
 
 3. git status
 
@@ -22,5 +25,6 @@ List the files you have changed and and those you still need to add or commit
 
 4. git commit -m "commit message"
 
-commit changes to head
+Commit changes to head. 
+Sends staging area to local repo.
 
