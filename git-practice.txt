@@ -72,7 +72,11 @@ git fatch + git marge = git pull
 
 To push data on particular branch on the server.
 
-16. README
+16. .gitignore file
+
+This file helps user to not push any type of file like password or any important docoument that can't be used in the production.
+
+17. README
 
 Now add a readme file and you are ready to go.
 
