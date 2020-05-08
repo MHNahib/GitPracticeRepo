@@ -19,6 +19,8 @@ It is used for initialise a git repository for a new or existing project.
 Add one or more files to staging area.
 Sends working directory to staging area.
 
+You can also use git add . to save all files in staging area.
+
 3. git status
 
 List the files you have changed and and those you still need to add or commit.
