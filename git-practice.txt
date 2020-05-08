@@ -28,3 +28,10 @@ List the files you have changed and and those you still need to add or commit
 Commit changes to head. 
 Sends staging area to local repo.
 
+5. git log
+
+Shows all the logs. 
+
+6. git rm --cached <file_name>
+
+To remove files form staging area.
