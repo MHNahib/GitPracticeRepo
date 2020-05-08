@@ -49,3 +49,5 @@ To switch from current branch to another branch.
 At a time sends file to the staging and local repo. 
 
 10. git merge <branch_name>
+
+To marge a branch
