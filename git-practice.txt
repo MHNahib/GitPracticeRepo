@@ -53,3 +53,8 @@ At a time sends file to the staging and local repo.
 To marge a branch.
 
 11. Goto github and make a new repo there. Add a new name and that add last two commands of the repo to your git bash.
+
+12. git push
+
+To send data from Local repo to remote repo
+
