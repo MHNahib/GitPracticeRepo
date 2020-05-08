@@ -60,7 +60,7 @@ To send data from local repo to remote repo
 
 13. git fatch
 
-To fatch data from remote repo to local repo
+To fatch data from remote repo to local repo. If you want to see code change and then add to marge then use git fatch else use git pull.
 
 14. git pull 
 
